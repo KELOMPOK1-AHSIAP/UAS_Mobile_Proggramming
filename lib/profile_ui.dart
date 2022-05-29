@@ -45,7 +45,7 @@ class ProfileUI extends StatelessWidget {
 
             GestureDetector(
               onTap: () {
-              launch('https://github.com/AlvianWijaya26/KELOMPOK3AHSIAP');
+              launch('https://github.com/KELOMPOK1-AHSIAP/UAS_Mobile_Proggramming/tree/master');
             },
               child: Container(
               padding: EdgeInsets.symmetric(vertical: 12, horizontal: 10),
